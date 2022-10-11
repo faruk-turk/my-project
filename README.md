@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hands-on Flask-03-04: If-For structure, Handling Routes and Get-Post Methods
 
 Purpose of the this hands-on training is to give the students introductory knowledge of how to handle forms.
@@ -239,3 +240,6 @@ When sending request, the client can send data with using different http methods
 # app.run(host='0.0.0.0', port=80)
 ```
 
+=======
+# my-project
+>>>>>>> c5ca677150017ee9646510bb5d16364c5340aab3
